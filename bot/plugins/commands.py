@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔺OUR GROUP🔻', url="https://t.me/CrazyBotsz"
+                                    '🔺OUR GROUP🔻', url="https://t.me/malllumoviesgroups"
                                 )
                         ]
                     ]
@@ -48,9 +48,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developer🧑‍💻', url='https://t.me/ivar_bonel'),
-        InlineKeyboardButton('Update channel 🧾', url ='https://t.me/mainchannel12346')
+        InlineKeyboardButton('🍂Our group 🍂', url ='https://t.me/malllumoviesgroups')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🔗Update channel🔗', url='https://t.me/mainchannel12346')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
