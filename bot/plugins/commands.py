@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = "@malllumoviesgroups",
+                caption = "@TeamAllmoviessearchitake",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔺 SEARCH AGAIN🔻', url="https://t.me/malllumoviesgroups"
+                                    '🔺 SEARCH AGAIN🔻', url="https://t.me/TeamAllmoviessearchitake"
                                 )
                         ]
                     ]
@@ -47,12 +47,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer🧑‍💻', url='https://t.me/ivar_bonel'),
-        InlineKeyboardButton('🍂Our group 🍂', url ='https://t.me/malllumoviesgroups')
+        InlineKeyboardButton('😎owner😎', url='https://t.me/ClarkKent_01'),
+        InlineKeyboardButton('🍂Our group 🍂', url ='https://t.me/TeamAllmoviessearchitake')
     ],[
         InlineKeyboardButton('🔗Update channel🔗', url='https://t.me/mainchannel12346')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('Developer🧑‍💻', url='https://t.me/ivar_bonel')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
