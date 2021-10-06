@@ -6,11 +6,11 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {} സുഖമല്ലേ കുട്ടാ 😅!!</b>
 <b>ഞാൻ ഒരു പോളി Auto Filter Bot....😉 ആണ്<b>
-<a href="https://telegra.ph/file/327cd24aa8df72a5186f1.png"> എന്നെ😁കാണണോ</a>
+<a href="https://telegra.ph/file/cdbdc2ef948b7e36cecf8.png"> എന്നെ😁കാണണോ</a>
 നോക്കണ്ട ഉണ്ണി ഇത് ഞാൻ അല്ല 😅
 
 😺ഇതുവരെ വന്നതല്ലേ ഒന്ന് കേറിയിട്ട് പോടാ 😺..
-@malllumoviesgroups
+@TeamAllmoviessearchitake
 </i>"""    
     
     HELP_TEXT = """
@@ -48,7 +48,7 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/ivar_bonel>Shaham creater</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/ivar_bonel>GOKU SON</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
