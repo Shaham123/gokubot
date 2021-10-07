@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('😎owner😎', url='https://t.me/ClarkKent_01'),
         InlineKeyboardButton('🍂Our group 🍂', url ='https://t.me/TeamAllmoviessearchitake')
     ],[
-        InlineKeyboardButton('🔗Update channel🔗', url='https://t.me/mainchannel12346')
+        InlineKeyboardButton('🔗Update channel🔗', url='https://t.me/Team_all_movies')
     ],[
         InlineKeyboardButton('Developer👨‍💻', url='https://t.me/ivar_bonel')
         
